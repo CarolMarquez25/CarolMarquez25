@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hola, soy **Carol G. Márquez Miranda** :bar_chart: 👋
 
 <!--
 **CarolMarquez25/CarolMarquez25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,21 +41,24 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
   <img src="https://img.shields.io/badge/Tidyverse-1A85FF?style=for-the-badge&logo=r&logoColor=white"> 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </a>
 
 ### **Herramientas de programación**
 <a href="https://github.com/CarolGM">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> 
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Statistica-007ACC?style=for-the-badge&logo=data:image/png;base64,<BASE64_ICON>&logoColor=white">
+<img src="https://img.shields.io/badge/SPSS-003366?style=for-the-badge&logo=ibm&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Minitab-1D9BF0?style=for-the-badge&logo=data:image/png;base64,<BASE64_ICON>&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
 </a>
 
 ### **Bases de datos**
 <a href="https://github.com/CarolGM">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
 
 ### **Otras herramientas**
@@ -65,21 +68,29 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 </a>
 
 ---
+###**Habilidades**
+- Liderazgo
+- Resolución de problemas
+- Regresión, ANOVA, pruebas de hipótesis
+- MOdelado estadístico y análisis predictivo
+- Diseño de experimentos
+- Visualización de datos  
 
 ## 🌱 Actualmente aprendiendo:  
 - **SQL avanzado**  
-- **Análisis de texto con Natural Language Processing (NLP)**  
+- **Análisis de texto con Natural Language Processing (NLP)**
+- **Inglés intermedio** 
 
 ---
 
 ## 📚 Sobre mí:  
-- 📈 Apasionada por resolver problemas utilizando datos.  
+- 📈 Apasionada por resolver problemas utilizando datos.
 - 🎓 Licenciada en Estadística por la **Universidad Veracruzana**.  
 - 🌎 De Xalapa, Veracruz, México.  
 
 ---
 
-## 📫 ¡Conéctate conmigo!  
+## 📫 ¡Contacto!  
 <a href="https://www.linkedin.com/in/carolmarquezmiranda">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>

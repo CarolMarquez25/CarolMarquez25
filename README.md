@@ -31,7 +31,6 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 
 ### **Herramientas de visualización**
 <a href="https://github.com/CarolGM">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> 
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> 
   <img src="https://img.shields.io/badge/ggplot2-1A85FF?style=for-the-badge&logo=r&logoColor=white">
 </a>
@@ -46,7 +45,6 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 ### **Herramientas de programación**
 <a href="https://github.com/CarolGM">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> 
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
@@ -80,7 +78,7 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 </a>
 
 ---
-### Habilidades
+### ⚡ Habilidades:
 - Liderazgo
 - Resolución de problemas
 - Regresión, ANOVA, pruebas de hipótesis

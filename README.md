@@ -45,6 +45,7 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 
 ### **Herramientas de programación**
 <a href="https://github.com/CarolGM">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> 
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -52,7 +53,7 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 </a>
 
 ### **Herramientas Estadísticas**
-<a
+<a href="https://github.com/CarolGM">
 <img src="https://img.shields.io/badge/Statistica-007ACC?style=for-the-badge&logo=data:image/png;base64,<BASE64_ICON>&logoColor=white">
 <img src="https://img.shields.io/badge/SPSS-003366?style=for-the-badge&logo=ibm&logoColor=white">
 <img src="https://img.shields.io/badge/Minitab-1D9BF0?style=for-the-badge&logo=data:image/png;base64,<BASE64_ICON>&logoColor=white">

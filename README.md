@@ -1,4 +1,4 @@
-# Hola, soy **Carol G. Márquez Miranda** :bar_chart: 👋
+# Hola, soy **Carol Márquez** :bar_chart: 👋
 
 <!--
 **CarolMarquez25/CarolMarquez25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># Hola, soy **Carol G. Márquez Miranda** :bar_chart:
+-->
 
 **Estadística | Analista de Datos** :woman_technologist:  
 Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, visualización de datos y desarrollo de modelos predictivos.  
@@ -48,17 +48,21 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> 
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+### **Herramientas Estadísticas**
+<a
 <img src="https://img.shields.io/badge/Statistica-007ACC?style=for-the-badge&logo=data:image/png;base64,<BASE64_ICON>&logoColor=white">
 <img src="https://img.shields.io/badge/SPSS-003366?style=for-the-badge&logo=ibm&logoColor=white">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
 <img src="https://img.shields.io/badge/Minitab-1D9BF0?style=for-the-badge&logo=data:image/png;base64,<BASE64_ICON>&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 
 </a>
 
 ### **Bases de datos**
 <a href="https://github.com/CarolGM">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </a>
 
 ### **Otras herramientas**
@@ -68,7 +72,7 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 </a>
 
 ---
-###**Habilidades**
+### Habilidades
 - Liderazgo
 - Resolución de problemas
 - Regresión, ANOVA, pruebas de hipótesis
@@ -91,7 +95,7 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 ---
 
 ## 📫 ¡Contacto!  
-<a href="https://www.linkedin.com/in/carolmarquezmiranda">
+<a href="linkedin.com/in/carol-galilea-márquez-miranda-332b08214">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 

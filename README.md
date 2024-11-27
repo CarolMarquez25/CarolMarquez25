@@ -67,12 +67,6 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
   <img src="https://img.shields.io/badge/Minitab-1D9BF0?style=for-the-badge&logo=analytics&logoColor=white">
 </a>
 
-<img src="https://img.shields.io/badge/Statistica-007ACC?style=for-the-badge&logo=data:image/png;base64,<BASE64_ICON>&logoColor=white">
-<img src="https://img.shields.io/badge/SPSS-003366?style=for-the-badge&logo=ibm&logoColor=white">
-<img src="https://img.shields.io/badge/Minitab-1D9BF0?style=for-the-badge&logo=data:image/png;base64,<BASE64_ICON>&logoColor=white">
-
-</a>
-
 ### **Bases de datos**
 <a href="https://github.com/CarolGM">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 

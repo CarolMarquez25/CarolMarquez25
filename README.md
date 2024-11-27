@@ -6,7 +6,7 @@
 
 -->
 
-**Estadística | Analista de Datos** :woman_technologist:📈  
+📈 **Estadística | Analista de Datos** :woman_technologist:  
 Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, visualización de datos y desarrollo de modelos predictivos.  
 
 ---

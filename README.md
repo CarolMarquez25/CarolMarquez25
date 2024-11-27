@@ -6,7 +6,7 @@
 
 -->
 
-**Estadística | Analista de Datos** :woman_technologist:  
+**Estadística | Analista de Datos** :woman_technologist:  📈
 Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, visualización de datos y desarrollo de modelos predictivos.  
 
 ---
@@ -25,12 +25,11 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 
 ---
 ### ⚡ Habilidades:
-- Liderazgo
-- Resolución de problemas
-- Regresión, ANOVA, pruebas de hipótesis
+- Liderazgo y resolución de problemas
+- Regresión y ANOVA
 - MOdelado estadístico y análisis predictivo
-- Diseño de experimentos
-- Visualización de datos  
+- Visualización de datos
+
 
 ## 🌱 Actualmente aprendiendo:  
 - **SQL avanzado**  
@@ -40,7 +39,6 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 ---
 
 ## 📚 Sobre mí:  
-- 📈 Apasionada por resolver problemas utilizando datos.
 - 🎓 Licenciada en Estadística por la **Universidad Veracruzana**.  
 - 🌎 De Xalapa, Veracruz, México.  
 
@@ -48,6 +46,4 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 
 ## 📫 ¡Contacto!  
 <a href="linkedin.com/in/carol-galilea-márquez-miranda-332b08214">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>

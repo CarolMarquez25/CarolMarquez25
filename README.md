@@ -45,5 +45,5 @@ Me apasiona convertir datos en decisiones inteligentes. Trabajo con análisis, v
 ---
 
 ## 📫 ¡Contacto!  
-<a href="linkedin.com/in/carolgalileamárquezmiranda">
+<a href="www.linkedin.com/in/carolgalileamárquezmiranda">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
